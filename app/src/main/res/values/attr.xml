@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="firstcolor" format="color" />
+    <attr name="firststroke" format="dimension" />
+    <attr name="secondcolor" format="color" />
+    <attr name="secondstroke" format="dimension" />
+    <attr name="threecolor" format="color" />
+    <attr name="radious" format="dimension" />
+    <declare-styleable name="DefineProgress">
+        <attr name="firstcolor" />
+        <attr name="firststroke" />
+        <attr name="secondcolor" />
+        <attr name="secondstroke" />
+        <attr name="threecolor" />
+        <attr name="radious"/>
+    </declare-styleable>
+</resources>
